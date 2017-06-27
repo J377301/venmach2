@@ -1,0 +1,5 @@
+﻿  VendingMachine.cpp
+e:\tafe\latest\euna\4. .net cluster(c#, c++) - andrew\vendingmachine\vendingmachine\vendingmachine.cpp(174): warning C4566: character represented by universal-character-name '\u02C8' cannot be represented in the current code page (1252)
+e:\tafe\latest\euna\4. .net cluster(c#, c++) - andrew\vendingmachine\vendingmachine\vendingmachine.cpp(174): warning C4566: character represented by universal-character-name '\u0283' cannot be represented in the current code page (1252)
+  VendingMachine.vcxproj -> E:\Tafe\Latest\Euna\4. .Net Cluster(C#, C++) - Andrew\VendingMachine\Debug\VendingMachine.exe
+  VendingMachine.vcxproj -> E:\Tafe\Latest\Euna\4. .Net Cluster(C#, C++) - Andrew\VendingMachine\Debug\VendingMachine.pdb (Full PDB)
